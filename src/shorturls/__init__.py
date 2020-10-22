@@ -1,3 +1,7 @@
+"""
+dlam trying to make this old 'shorturls' package compatible with 2.0!
+"""
+
 from django.conf import settings
 from django.core.exceptions import ImproperlyConfigured
 try:

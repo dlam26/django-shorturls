@@ -6,7 +6,7 @@ def read(fname):
 
 setup(
     name = "django-shorturls",
-    version = "2.0.0",
+    version = "2.0.0-dlam",
     url = 'https://github.com/bfirsh/django-shorturls',
     license = 'BSD',
     description = "A URL shortening app for Django.",
