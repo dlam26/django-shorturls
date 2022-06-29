@@ -8,3 +8,16 @@ downloads
 eggs
 parts
 src/*.egg-info
+
+# tox build folders
+.eggs
+.tox
+build
+
+shorturls-env
+
+# vi files
+*.un*
+*.s[a-z][a-z]
+.+!*.svg
+tags
